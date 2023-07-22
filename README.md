@@ -11,7 +11,8 @@ gcc -o dda dda.c
 dda <PIXEL_COUNT> <X1_VAL> <Y1_VAL> <X2_VAL> <Y2_VAL>
 ```
 
-Remember to Replace the following 
+Remember to Replace the following\
+\
 ``` <PIXEL_COUNT> ``` with Coordinate system Maximum Axis Points\
 ``` <X1_VAL> ``` with X point value of the 1st point of the line\
 ``` <Y1_VAL> ``` with Y point value of the 1st point of the line\
